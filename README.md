@@ -62,14 +62,22 @@ La interfaz administrativa permite el monitoreo global y la gestión de la infra
 
 Panel Administrativo: Visualización de métricas generales y estado de la cuenca.
 
-![Dashboard Web](screenshots/web/dashboard_overview.png)
+![Dashboard Web](screenshots/web/admin/dashboard_overview.png)
 
 Módulo de Georreferenciación: Gestión de perímetros y capas espaciales.
 
-![Mapas Web](screenshots/web/map_management.png)
+![Mapas Web](screenshots/web/admin/map_management.png)
 
 Aplicación Móvil
 La interfaz móvil prioriza la carga rápida de datos y el estado de la sincronización.
+
+Interfaz Principal (Main screen)
+
+![Mainscreen](screenshots/mobile/mainscreen.png)
+
+Visualización de stock: Resumenes interactivos del stock 
+
+![View stock](screenshots/mobile/stock.png)
 
 Flujo de Registro: Formulario reactivo para la captura de movimientos.
 
@@ -79,9 +87,13 @@ Gestión de Sincronización: Interfaz de control para datos pendientes de envío
 
 ![Sync Manager](screenshots/mobile/sync_manager.png)
 
+Integración logística: Control de fechas de compra de stock
+
+![Logistic Manager](screenshots/mobile/logistica.png)
+
 Cartografía Offline: Visualización de límites de parcelas sin conexión.
 
-![Mapa Móvil](screenshots/mobile/offline_map.png)
+(En desarrollo)
 
 Contexto Institucional
 Este proyecto representa el resultado técnico de una pasantía profesional en el INTA Centro Regional Misiones y se integra en la formación académica de la carrera Analista de Sistemas.
