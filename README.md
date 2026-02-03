@@ -95,7 +95,6 @@ Cartografía Offline: Visualización de límites de parcelas sin conexión.
 
 (En desarrollo)
 
-Contexto Institucional
 Este proyecto representa el resultado técnico de una pasantía profesional en el INTA Centro Regional Misiones y se integra en la formación académica de la carrera Analista de Sistemas.
 
 Desarrollado por: Leonardo Krasuchi.
